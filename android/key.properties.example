@@ -1,0 +1,4 @@
+storePassword=nec123456
+keyPassword=nec123456
+keyAlias=upload
+storeFile=upload-keystore.jks
